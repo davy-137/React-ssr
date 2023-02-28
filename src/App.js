@@ -10,7 +10,7 @@ function App() {
       </header>
       <Router>
         <Routes>
-          <Route exact path="/preview" element={<Preview />} />
+          <Route exact path='/preview' element={<Preview />} />
         </Routes>
       </Router>
     </> 
