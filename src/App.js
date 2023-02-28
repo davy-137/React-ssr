@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 import Preview from './Components/preview';
-// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { Helmet } from "react-helmet";
 function App() {
   return (
